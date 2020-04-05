@@ -17,4 +17,4 @@ pacman.pickle: Model weights stored as a python dictionary (given that the model
 
 Included below is a short example of a game with the model running
 
-![](test.gif)
+![](game.gif)
