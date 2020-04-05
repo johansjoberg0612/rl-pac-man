@@ -15,4 +15,6 @@ helper_function: contains primarily the policy function, the back propagation fu
 
 pacman.pickle: Model weights stored as a python dictionary (given that the model was only trained for a few hours on an old laptop it is not perfect)
 
+Included below is a short example of a game with the model running
+
 ![](test.gif)
