@@ -14,3 +14,5 @@ model_running: runs model
 helper_function: contains primarily the policy function, the back propagation functions, the reward discounter, and the observation preprocesser
 
 pacman.pickle: Model weights stored as a python dictionary (given that the model was only trained for a few hours on an old laptop it is not perfect)
+
+![](test.gif)
